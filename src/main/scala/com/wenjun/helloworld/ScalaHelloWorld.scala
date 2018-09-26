@@ -1,5 +1,4 @@
-package com.wenjun
-
+package com.wenjun.helloworld
 
 /**
   * 测试Scala是否正常运行

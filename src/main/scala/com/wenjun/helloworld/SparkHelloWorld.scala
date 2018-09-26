@@ -1,4 +1,4 @@
-package com.wenjun
+package com.wenjun.helloworld
 
 import org.apache.spark.{SparkConf, SparkContext}
 
